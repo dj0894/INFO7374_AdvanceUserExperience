@@ -25,7 +25,7 @@ Before redesigning the boarding pass its always better to define the scope of th
 ## Information Architecture
 Information architecture is a discipline that focuses on the organization of information within the product.
 
-<img src="./pics/currentBoardingPassExplained.jpg height="300" length="400">
+<img src="./pics/currentBoardingPassExplained.jpg" height="300" length="400">
 
 
 Currently Emirates boarding has two sections which are used by different stakeholders
@@ -69,7 +69,7 @@ This is the time after boarding the flight. In this period the passenger can be 
 
 ### Design For Home/Kiosk Print
 
-<img src="./pics/newlyDesignedBoardingPass.png" height="300" length="400">
+<img src="./pics/newlyDesignedBoardingPass.png" height="400" length="380">
 
 #### Explanation for Design
 1. **Boarding pass dimension for Home/Kiosk print**: As many of us are anxious about keeping boarding pass safe I had two options for selecting the dimensions of boarding pass equivalent to
@@ -86,7 +86,7 @@ I rejected the idea of wallet as many people have different wallet size. I choos
 
 ### Design for Mobile App
 
-<img src="./pics/newlyDesignedBoardingPassPhoneApp.png" height="300" length="400">
+<img src="./pics/newlyDesignedBoardingPassPhoneApp.png" height="400" width="380">
 
 #### Explaining Emirates boarding pass for mobile app
    1. **Dimension**: For choosing dimensions of boarding pass for mobile app we need to make sure of the layouts which fits with all the devices in Android as well as iPhone. We can take care of these thing by defining Auto Layouts while developing application.
