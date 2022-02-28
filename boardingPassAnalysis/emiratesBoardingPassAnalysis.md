@@ -1,4 +1,4 @@
-# Analysis of boarding pass of Emirates Airlines
+# Case Study : Emirates Boarding Pass Analysis 
 Do you have travel anxiety? How many times you check if you kept your boarding pass safely before getting into plane? Are you quickly able to process the information provided in boarding pass? Though I always faced these issues while travelling I never really analyzed why information is arranged in certain way in all the boarding passes. Now that I am learning about user experience, I can implement my learning in designing user friendly boarding passes.
 
 ## Emirates current boarding pass
@@ -76,7 +76,7 @@ This is the time after boarding the flight. In this period the passenger can be 
    * Wallet, or,
    * Passport size 32-page booklet (15.5 cm x 10.5 cm (6.1 inches x 4.1inches)
 
-I rejected the idea of wallet as many people have different wallet size. I choose to make boarding pass dimensions equivalent to the passport because Emirates is an international flight and people travelling abroad always carry passport, so it is better to make boarding pass fit in passport. I have highlighted the part that can be folded to fit both section 1 and section 2 fit in passport.
+   I rejected the idea of wallet as many people have different wallet size. I choose to make boarding pass dimensions equivalent to the passport because Emirates is an international flight and people travelling abroad always carry passport, so it is better to make boarding pass fit in passport. I have highlighted the part that can be folded to fit both section 1 and section 2 fit in passport.
 
 2. **Introduced Icons**: As discussed above the present design needed some signifiers. I knew I had to use them scarcely as well because every new signifier would add to the learning curve. I decided to use them to signify departure and arrivals so that it's easier to navigate that information. I used icons for displaying things like flights, source, destination etc. These signifiers are more perceptible compared to texts. People who don’t know language used for printing boarding pass can easily identify what they are looking for.
 
