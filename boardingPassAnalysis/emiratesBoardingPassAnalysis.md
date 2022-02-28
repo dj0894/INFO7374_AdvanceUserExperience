@@ -37,10 +37,10 @@ My work is primarily focused on re-designing section 1 as it is used by passenge
 ## Information Architecture of new boarding pass
 
 To define the information architecture of the new boarding pass lets first define the criteria for arranging the information.
-1. On the basis of stakeholders using the information 
+1. **On the basis of stakeholders using the information**
    * Passenger
    * Staff
-2. On the basis of time at which information is used.
+2. **On the basis of time at which information is used**
    * Pre-boarding 
    * Post-boarding
  
@@ -52,7 +52,7 @@ So, based on above criteria’s, information architecture should be
 #### For Staff
    * Class (Economy/Business/ First class)
    * Seating Zone
-
+  
 ### Analogy behind the chosen Information Architecture
 
 #### Preboarding:
@@ -69,7 +69,7 @@ This is the time after boarding the flight. In this period the passenger can be 
 
 ### Design For Home/Kiosk Print
 
-<img src="./pics/newlyDesignedBoardingPass.jpg" height="300" length="400">
+<img src="./pics/newlyDesignedBoardingPass.png" height="300" length="400">
 
 #### Explanation for Design
 1. **Boarding pass dimension for Home/Kiosk print**: As many of us are anxious about keeping boarding pass safe I had two options for selecting the dimensions of boarding pass equivalent to
@@ -86,8 +86,10 @@ I rejected the idea of wallet as many people have different wallet size. I choos
 
 ### Design for Mobile App
 
-<img src=".pics/newlyDesignedBoardingPassPhoneApp.png" height="300" length="400">
-   1. **Dimension**: For choosing dimensions of boarding pass we need to make sure of the layouts which fits with all the devices in Android as well as iPhone. We can take care of these thing by defining Auto Layouts while developing application.
+<img src="./pics/newlyDesignedBoardingPassPhoneApp.png" height="300" length="400">
+
+#### Explaining Emirates boarding pass for mobile app
+   1. **Dimension**: For choosing dimensions of boarding pass for mobile app we need to make sure of the layouts which fits with all the devices in Android as well as iPhone. We can take care of these thing by defining Auto Layouts while developing application.
    2. **Use of more icons**: Since boarding pass for mobile application is not used for printing, I took liberty for adding more icons to make it attractive without compromising the information architecture. I still wanted to keep it simple to process the information.
    3. **Language Feature**: I added language feature to the top right corner so that user can choose the language of their choice making it feasible for people who don’t know English.
    4. **Hierarchy of Information**: I followed the same information architecture as I followed for home/kiosk print which is explained above under “Information Architecture” topic.
